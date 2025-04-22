@@ -1,0 +1,180 @@
+/* Color Theme File */
+
+a,
+.theme_color,
+.btn-style-one,
+.main-slider h2,
+.sec-title h2,
+.btn-style-four:hover,
+.btn-style-five:hover,
+.page-title .bread-crumb li,
+.page-title .bread-crumb li a:hover,
+.page-title h1,
+.faq-section .faq-title h2,
+.consult-section .title-column .inner-column .number,
+.consult-section .title-column .inner-column h2,
+.consult-section .form-column .inner-column h2,
+.services-block .inner-box .icon-box,
+.services-block .inner-box h3 a:hover,
+.services-block-two .inner-box h3 a:hover,
+.team-member .inner-box .lower-box h3,
+.main-footer .links-widget .list li a:hover,
+.news-widget-block .post-time,
+.news-block .inner-box .lower-content h3 a,
+.news-block .inner-box .lower-content .detail:hover,
+.testimonial-block .inner-box .content-box .inner .quote-icon,
+.business-info-tabs .prod-tabs .tab-btns .tab-btn:hover,
+.business-info-tabs .prod-tabs .tab-btns .tab-btn.active-btn,
+.header-style-two .main-menu .navigation > li.current > a,
+.header-style-two .main-menu .navigation > li:hover > a,
+.main-header .header-top .top-right .quote-btn a:hover,
+.services-block-three .inner-box .lower-box h3 a:hover,
+.project-tab .product-tab-btns .p-tab-btn:hover,
+.project-tab .product-tab-btns .p-tab-btn.active-btn,
+.accordion-box .block .acc-btn,
+.accordion-box .block .icon-outer,
+.accordion-box .block .icon-outer .icon,
+.faq-form-section h2,
+.error-section .error-big-text,
+.info-widget .inner h2,
+.sidebar .sidebar-category .list li a,
+.services-single .inner-box .lower-box h3,
+.services-single .services-tab h2,
+.gallery-section .filters .filter.active,
+.project-single-section .inner-box h2,
+.project-single-section .inner-box .project-info-box .info li,
+.project-tab-box .prod-tabs .tab-btns .tab-btn.active-btn,
+.list-style-two li:before,
+.sidebar-title h2,
+.social-icon-three a:hover,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.sidebar-page-container .group-title h2,
+.blog-detail .inner-box .lower-content h3,
+.blog-detail .inner-box .lower-content .text blockquote,
+.news-block-two .inner-box .lower-content .detail:hover,
+.news-block-two .inner-box .lower-content h3 a,
+.blog-cat li a:hover,
+.sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
+.gallery-section .filters .filter:hover,
+.gallery-block .inner-box .lower-box h3 a,
+.gallery-block .inner-box .image-box .overlay-box .content .icon:hover,
+.services-block-four .inner-box .lower-content .detail .arrow,
+.services-block-four .inner-box .lower-content h3 a:hover,
+.services-block-four .inner-box .lower-content .detail,
+.contact-info .inner .icon-box,
+.form-section h2,
+.team-section .owl-nav .owl-prev:hover, .team-section .owl-nav .owl-next:hover{
+	color:#FF4136;
+}
+
+/*Background Color*/
+
+.main-header .info-box .quote-btn:hover,
+.main-header .header-lower .bg-box,
+.main-header .nav-outer,
+.btn-style-one:hover,
+.scroll-to-top:hover,
+.btn-style-two:hover,
+.btn-style-three,
+.btn-style-four,
+.comment-form button:hover,
+.call-to-action-section,
+.sidebar-brochure .brochure,
+.posts-arrow li a:hover,
+.sidebar .popular-tags a:hover,
+.error-section .btn-style-four:hover,
+.faq-form-section .form-group button:hover,
+.header-style-two .header-top .inner-container:before,
+.header-style-two .header-top .inner-container,
+.testimonial-section .owl-dots .owl-dot.active span,
+.testimonial-section .owl-dots .owl-dot:hover span,
+.main-menu .navigation > li > ul > li:hover > a,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.gallery-section .filters .filter.active::before, .gallery-section .filters .filter:hover::before,
+.gallery-section .filters .filter.active::after, .gallery-section .filters .filter:hover::after,
+.main-header .sticky-header .main-menu .navigation > li:hover > a,
+.main-header .sticky-header .main-menu .navigation > li.current > a,
+.styled-pagination li a:hover, .styled-pagination li a.active,
+.contact-form button:hover,
+.sidebar-testimonial .owl-dots .owl-dot.active span, .sidebar-testimonial .owl-dots .owl-dot:hover span,
+.sidebar .sidebar-category .list li a:hover, .sidebar .sidebar-category .list li.current a,
+.main-header .sticky-header .main-menu .navigation > li.current-menu-item > a{
+	background-color:#FF4136;
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-one:hover,
+.main-header .info-box .quote-btn:hover,
+.main-menu .navigation > li > ul,
+.btn-style-two:hover,
+.sidebar-brochure .brochure,
+.posts-arrow li a:hover,
+.sidebar .popular-tags a:hover,
+.error-search-box .form-group input:focus,
+.team-member .inner-box:hover .lower-box,
+.main-menu .navigation > li > ul > li > ul,
+.testimonial-section .owl-dots .owl-dot.active span,
+.testimonial-section .owl-dots .owl-dot:hover span,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.faq-section .faq-search-box .form-group input:focus,
+.faq-form-section .form-group input[type="text"]:focus,
+.faq-form-section .form-group input[type="email"]:focus,
+.faq-form-section .form-group textarea:focus,
+.sidebar .search-box .form-group input:focus,
+.styled-pagination li a:hover, .styled-pagination li a.active,
+.team-section .owl-nav .owl-prev:hover, .team-section .owl-nav .owl-next:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus,
+.comment-form .form-group textarea:focus{
+	border-color:#FF4136;
+}
+
+/*Image*/
+.services-block-two .inner-box .icon-box{
+	background:url(../../images/icons/service-icon-red.png) no-repeat;
+}
+
+/*RGBA Color Dark*/
+.counter-section:before,
+.default-gallery-item .inner-box .overlay-box .overlay-inner,
+.gallery-block .inner-box .image-box .overlay-box,
+.fullwidth-section .section-outer .form-column:before{
+	background-color:rgba(255,65,54,0.85);
+}
+
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#ffffff;
+		color:#ffffff;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+		background-color:#FF4136;
+	}
+	
+}
